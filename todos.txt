@@ -2,3 +2,4 @@ prepare
 write
 play
 fix
+clean the bag
